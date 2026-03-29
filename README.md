@@ -1,11 +1,8 @@
 # minimax
 
-minimax: Minimax with alpha-beta pruning for two-player games.
-
-Single-file, zero-dependency Python CLI.
+minimax: Single-file Python CLI tool. Zero dependencies, Python 3.8+.
 
 ## Usage
-
 ```bash
-python3 minimax.py test
+python3 minimax.py --test
 ```
