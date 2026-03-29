@@ -1,9 +1,11 @@
-# minimax-engine
+# minimax
 
-Minimax game engine with alpha-beta pruning. Zero-dependency, single-file Python CLI.
+minimax: Minimax with alpha-beta pruning for two-player games.
+
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python3 minimax.py --help
+python3 minimax.py test
 ```
